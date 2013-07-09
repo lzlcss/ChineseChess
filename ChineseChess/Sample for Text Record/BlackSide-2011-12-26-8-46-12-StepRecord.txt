@@ -1,0 +1,12 @@
+This is A step Show 
+This is Black side
+black-pao 7 7 go to 4 7
+red-ma 7 9 go to 6 7
+black-ma 7 9 go to 6 7
+red-pao 1 7 go to 4 7
+black-ju 8 9 go to 7 9
+red-ju 8 9 go to 8 8
+black-ju 7 9 go to 7 4
+red-bing 6 6 go to 6 5
+black-ju 7 4 destroyed red-bing 2 4
+red-ju 8 8 go to 6 8

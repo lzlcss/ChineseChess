@@ -1,0 +1,3 @@
+This is a chat board
+Black: Hello! 
+Red: Nice to Meet you! 
